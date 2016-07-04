@@ -1,0 +1,7 @@
+2a7f0508d5d63a97a1489e02fb3c4355 *DESCRIPTION
+f9181c49bb4ff04c1d67afb9f25c2442 *LICENSE
+9c6520af31f1e88da00240ca0b9a10a4 *NAMESPACE
+5c0dae01ba19a7a376296a1725522229 *R/trunct.R
+1154d43a62c106963ee9fa37f9b85d91 *man/e_trunct.Rd
+65723b20ad4075bcfce2d6f97bc2885e *tests/testthat.R
+b75229e4e0574fae0bbb61b6c9f87b90 *tests/testthat/test_e_trunct.R
